@@ -1,0 +1,1 @@
+Stock market trading simulator is GUI application written in Java.
